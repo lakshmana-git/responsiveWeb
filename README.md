@@ -1,5 +1,5 @@
 # Learn Code
-Basic responsive landing page made with html and css
+#Basic responsive landing page made with html and css
 
 
 Responsive view
